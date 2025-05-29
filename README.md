@@ -5,6 +5,7 @@ Ce projet utilise Azure OpenAI pour interpréter des commandes vocales et géné
 ## Fonctionnalités
 - 🎤 Entrée vocale ou en langage naturel
 - 📊 Graphiques générés à la volée
+- Inteprétation suggéreée automatiquement
 - 🤖 Interaction avec un agent IA via Azure OpenAI
 
 ## Fichiers
@@ -15,4 +16,5 @@ Ce projet utilise Azure OpenAI pour interpréter des commandes vocales et géné
 ## Confidentialité
 - ⚠️ **La clé API Azure n’est pas incluse** pour des raisons de sécurité.
 - 🔐 Si vous avez besoin d'une démo, merci de me contacter en privé.
+
 
