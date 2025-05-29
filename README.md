@@ -8,7 +8,7 @@ Ce projet utilise Azure OpenAI pour interpréter des commandes vocales et géné
 - 🤖 Interaction avec un agent IA via Azure OpenAI
 
 ## Fichiers
-- `studentperformance.csv` : Données des étudiants (notes, semestres, etc.)
+- `studentperformance.csv` : Données des étudiants (notes, genre, etc.)
 - `speech_to_plot.py` : Script principal du projet
 - `requirements.txt` : Bibliothèques nécessaires
 
