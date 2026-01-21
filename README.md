@@ -26,6 +26,7 @@ Objectif : **réduire la barrière technique** entre utilisateurs non spécialis
 
 ## 🏗️ Structure du projet
 data-viz-speech-to-plot/
+
 ├─ src/
 
 │ └─ main.py # Script principal
